@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>doggie home</title>
+  <title>doggie&#39;s home</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-06-26T01:07:58.816Z</updated>
+  <updated>2024-07-02T01:11:28.014Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2024/03/30/introduce/"/>
     <id>http://example.com/2024/03/30/introduce/</id>
     <published>2024-03-30T01:55:56.000Z</published>
-    <updated>2024-06-26T01:07:58.816Z</updated>
+    <updated>2024-07-02T01:11:28.014Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li><p>My name is doggieOnMars.</p></li><li><p>I come from China.</p></li><li><p>Welcome to my channel and read my computer learning notes.</p></li><li><p>I would share my computer learning notes and my working experience.</p></li></ol>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="—"><a href="#—" class="headerlink" title="—"></a>—</h1><h1 id="title-Hello-World"><a href="#title-Hello-World" class="headerlink" title="title: Hello World"></a>title: Hello World</h1><h1 id="date-2023-10-13-15-05-47"><a href="#date-2023-10-13-15-05-47" class="headerlink" title="date: 2023-10-13 15:05:47"></a>date: 2023-10-13 15:05:47</h1><h1 id="tags"><a href="#tags" class="headerlink" title="tags:"></a>tags:</h1><h1 id="tag1"><a href="#tag1" class="headerlink" title="- tag1"></a>- tag1</h1><h1 id="tag2"><a href="#tag2" class="headerlink" title="- tag2"></a>- tag2</h1><h1 id="toc-true"><a href="#toc-true" class="headerlink" title="toc: true"></a>toc: true</h1><h1 id="title-xxx"><a href="#title-xxx" class="headerlink" title="title: xxx"></a>title: xxx</h1><h1 id="summary-“hello-world-”"><a href="#summary-“hello-world-”" class="headerlink" title="summary: “hello? world!”"></a>summary: “hello? world!”</h1><h1 id="copyright-“All-rights-reserved”"><a href="#copyright-“All-rights-reserved”" class="headerlink" title="copyright: “All rights reserved”"></a>copyright: “All rights reserved”</h1><h1 id="author-“无名氏”"><a href="#author-“无名氏”" class="headerlink" title="author: “无名氏”"></a>author: “无名氏”</h1><h1 id="—-1"><a href="#—-1" class="headerlink" title="—"></a>—</h1><p>Welcome to doggie’s channel, I would share my computer learning notes and my working experience.</p>]]></content>
     
     <summary type="html">
     
@@ -34,6 +34,8 @@
     
     </summary>
     
+    
+      <category term="introduce" scheme="http://example.com/tags/introduce/"/>
     
   </entry>
   
