@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-06-14T02:19:17.583Z</updated>
+  <updated>2025-06-14T02:30:09.938Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>QtEnv</title>
+    <link href="http://example.com/2025/06/14/QtEnv/"/>
+    <id>http://example.com/2025/06/14/QtEnv/</id>
+    <published>2025-06-14T02:28:35.000Z</published>
+    <updated>2025-06-14T02:30:09.938Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我的QT VsCode工作环境设置</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="Qt" scheme="http://example.com/tags/Qt/"/>
+    
+      <category term="Env setting" scheme="http://example.com/tags/Env-setting/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Introduce</title>
     <link href="http://example.com/2024/03/30/introduce/"/>
     <id>http://example.com/2024/03/30/introduce/</id>
     <published>2024-03-30T01:55:56.000Z</published>
-    <updated>2025-06-14T02:19:17.583Z</updated>
+    <updated>2025-06-14T02:21:19.552Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong><big>Welcome to doggie’s channel~ ^_^</big></strong></p><h3 id="The-programe-languages-I-have-learned"><a href="#The-programe-languages-I-have-learned" class="headerlink" title="The programe languages I have learned:"></a>The programe languages I have learned:</h3><ul><li>C</li><li>CPP</li><li>Go</li><li>Python</li><li>Rust</li><li>Java</li><li>html, css, javascript</li><li>embedding system development</li></ul><h3 id="My-Interests"><a href="#My-Interests" class="headerlink" title="My Interests:"></a>My Interests:</h3><ul><li>Linux programming and kernel learning</li><li>microservice</li><li>database learning</li></ul><h3 id="I-would-share-my-computer-learning-notes-and-my-working-experience"><a href="#I-would-share-my-computer-learning-notes-and-my-working-experience" class="headerlink" title="I would share my computer learning notes and my working experience."></a>I would share my computer learning notes and my working experience.</h3>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong><big>Welcome to doggie’s channel~ ^_^</big></strong></p><h3 id="The-programe-languages-I-have-learned"><a href="#The-programe-languages-I-have-learned" class="headerlink" title="The programe languages I have learned:"></a>The programe languages I have learned:</h3><ul><li>C</li><li>CPP</li><li>Go</li><li>Python</li><li>Rust</li><li>Java</li><li>html, css, javascript</li></ul><h3 id="My-Interests"><a href="#My-Interests" class="headerlink" title="My Interests:"></a>My Interests:</h3><ul><li>Linux programming and kernel learning</li><li>microservice</li><li>database learning</li><li>embedding system development</li></ul><h3 id="I-would-share-my-computer-learning-notes-and-my-working-experience"><a href="#I-would-share-my-computer-learning-notes-and-my-working-experience" class="headerlink" title="I would share my computer learning notes and my working experience."></a>I would share my computer learning notes and my working experience.</h3>]]></content>
     
     <summary type="html">
     
