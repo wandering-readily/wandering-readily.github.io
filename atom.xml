@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-06-14T02:33:29.607Z</updated>
+  <updated>2025-06-14T02:34:48.183Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2025/06/14/QtEnv/"/>
     <id>http://example.com/2025/06/14/QtEnv/</id>
     <published>2025-06-14T02:28:35.000Z</published>
-    <updated>2025-06-14T02:33:29.607Z</updated>
+    <updated>2025-06-14T02:34:48.183Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我的QT VsCode工作环境设置</p>]]></content>
     
@@ -35,7 +35,9 @@
     </summary>
     
     
-      <category term="introduce" scheme="http://example.com/tags/introduce/"/>
+      <category term="Qt" scheme="http://example.com/tags/Qt/"/>
+    
+      <category term="Env setting" scheme="http://example.com/tags/Env-setting/"/>
     
   </entry>
   
